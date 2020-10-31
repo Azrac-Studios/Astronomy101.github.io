@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="309" height="59.904" viewBox="0 0 309 59.904">
+  <g id="Logo" transform="translate(-450 -55.096)">
+    <text id="TheAstronomy101" transform="translate(450 107)" fill="#fff" font-size="33" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">TheAstronomy101</tspan></text>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="155" height="4" transform="translate(450 78)" fill="#fff"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="125" height="4" transform="translate(634 78)" fill="#fff"/>
+    <path id="Icon_awesome-crown" data-name="Icon awesome-crown" d="M26.476,22.465H5.616a.8.8,0,0,0-.8.8v1.6a.8.8,0,0,0,.8.8h20.86a.8.8,0,0,0,.8-.8v-1.6A.8.8,0,0,0,26.476,22.465ZM29.685,6.418a2.408,2.408,0,0,0-2.407,2.407,2.358,2.358,0,0,0,.221.993l-3.63,2.176a1.6,1.6,0,0,1-2.216-.582L17.565,4.262a2.407,2.407,0,1,0-3.039,0L10.44,11.413a1.6,1.6,0,0,1-2.216.582L4.6,9.818a2.406,2.406,0,1,0-2.191,1.414,2.458,2.458,0,0,0,.386-.04L6.418,20.86H25.674L29.3,11.192a2.458,2.458,0,0,0,.386.04,2.407,2.407,0,0,0,0-4.814Z" transform="translate(603.888 55.096)" fill="#fff"/>
+  </g>
+</svg>
