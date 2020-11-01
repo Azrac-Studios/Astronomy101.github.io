@@ -1,8 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="309" height="59.904" viewBox="0 0 309 59.904">
-  <g id="Logo" transform="translate(-450 -55.096)">
-    <text id="TheAstronomy101" transform="translate(450 107)" fill="#fff" font-size="33" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">TheAstronomy101</tspan></text>
-    <rect id="Rectangle_3" data-name="Rectangle 3" width="155" height="4" transform="translate(450 78)" fill="#fff"/>
-    <rect id="Rectangle_4" data-name="Rectangle 4" width="125" height="4" transform="translate(634 78)" fill="#fff"/>
-    <path id="Icon_awesome-crown" data-name="Icon awesome-crown" d="M26.476,22.465H5.616a.8.8,0,0,0-.8.8v1.6a.8.8,0,0,0,.8.8h20.86a.8.8,0,0,0,.8-.8v-1.6A.8.8,0,0,0,26.476,22.465ZM29.685,6.418a2.408,2.408,0,0,0-2.407,2.407,2.358,2.358,0,0,0,.221.993l-3.63,2.176a1.6,1.6,0,0,1-2.216-.582L17.565,4.262a2.407,2.407,0,1,0-3.039,0L10.44,11.413a1.6,1.6,0,0,1-2.216.582L4.6,9.818a2.406,2.406,0,1,0-2.191,1.414,2.458,2.458,0,0,0,.386-.04L6.418,20.86H25.674L29.3,11.192a2.458,2.458,0,0,0,.386.04,2.407,2.407,0,0,0,0-4.814Z" transform="translate(603.888 55.096)" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2000" height="2000" viewBox="0 0 2000 2000">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="1000" cy="1000" r="1000" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Logo" clip-path="url(#clip-path)">
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="1000" cy="1000" r="1000" fill="#0f0f0f"/>
+    <g id="Group_10" data-name="Group 10">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="1009" cy="1009" r="1009" transform="translate(-778 -597)" fill="#2a2a2a" opacity="0.59"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="1009" cy="1009" r="1009" transform="translate(860 929)" fill="#4e4b4b" opacity="0.59"/>
+      <g id="Group_5" data-name="Group 5">
+        <g id="Group_4" data-name="Group 4" transform="translate(-1050.899 -871.464)" opacity="0.79">
+          <path id="Subtraction_1" data-name="Subtraction 1" d="M1744.265,1998.545h0l-379.057,0-131.736-424.687H507.421L351.715,1998.541H0L692.17,0h357.024l695.069,1998.541ZM869.208,458.476,622.929,1220.51l492.979.028Z" transform="translate(277 901.464)"/>
+          <path id="Path_3" data-name="Path 3" d="M1108.331,903.7l-.028,373.444,833.715,1.737L1090.483,2604.544v295.41l1358.079.735.218-375.048-884.77-2.058,852.109-1323.166-.094-298.06Z" transform="translate(994.702 1.659)"/>
+        </g>
+        <g id="Group_3" data-name="Group 3" transform="translate(-859.899 -901.464)">
+          <path id="Subtraction_1-2" data-name="Subtraction 1" d="M1744.265,1998.545h0l-379.057,0-131.736-424.687H507.421L351.715,1998.541H0L692.17,0h357.024l695.069,1998.541ZM869.208,458.476,622.929,1220.51l492.979.028Z" transform="translate(277 901.464)" fill="#913131"/>
+          <path id="Path_3-2" data-name="Path 3" d="M1108.331,903.7l-.028,373.444,833.715,1.737L1090.483,2604.544v295.41l1358.079.735.218-375.048-884.77-2.058,852.109-1323.166-.094-298.06Z" transform="translate(994.702 1.659)" fill="#913131"/>
+        </g>
+      </g>
+      <path id="Intersection_1" data-name="Intersection 1" d="M1885.9,1999.5h-77.714v-.957H1733.83l.333.958H1356.2l-122.728-395.646H1026.489L774.4,1360.414V1050.408l72.025,69.553-32.5,100.548,136.625.008,492,475.118L774.4,194.94V30H872.78L883,.5h48.936L1661.9,1640.033v-427.5l169.206,486.521,54.793-85.3v26.278l38.125-85.631,735.7-1145.328-225.554-.47L2614.627,3.28,2773.4,3.117V194.938l-668.154,1500.7L2773.4,1050.407v106.457l-300.688,466.913,27.9.065-251.568,242.937L2773.4,1745.722v228.865L2665.49,1999.5ZM1826,407.335l.029-373.443,59.865-.061V407.459Z" transform="translate(-773.899)" fill="#332d2d" opacity="0.15"/>
+    </g>
   </g>
 </svg>
